@@ -1,0 +1,12 @@
+{
+	"title": "README.md Generator",
+	"description": "dynamically create a professional ReadMe.md using the command-line",
+	"preview": "NA",
+	"installation": "Clone repo to device and open in VS code",
+	"usage": "Used by clients that would like professional README.md files created within minutes ",
+	"licenses": "GPLv3",
+	"contribution": "No public contributions accepted at this time",
+	"test": "clone repo, open with vs code on your own device, open command line, run ‘node index.js’, answer prompted questions and access the new README.md file",
+	"githubUserName": "mxhuisken",
+	"email": "mxhiiiii@gmail.com"
+}
