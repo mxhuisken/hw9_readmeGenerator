@@ -11,7 +11,7 @@
 # Links
 
 - Repository: https://github.com/mxhuisken/hw9_readmeGenerator
-- Node Generated README: 
+- Node Generated README: https://github.com/mxhuisken/hw9_readmeGenerator/blob/main/Example%20README/READMEexample.md
 
 # Requirements
 
